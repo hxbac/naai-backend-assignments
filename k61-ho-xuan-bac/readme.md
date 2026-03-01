@@ -1,0 +1,1 @@
+Thêm bài tập tương tự vào folder của mình, sau đó commit và push lên branch của mình. Vào github tạo merge request vào nhánh main
